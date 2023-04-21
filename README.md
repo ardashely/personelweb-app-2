@@ -9,4 +9,10 @@ Arda Aydın Personel Web App
  
 <h1>In-App Images</h1>
 
+- PC;
+
 ![PC](https://i.hizliresim.com/l1fk0km.png)
+
+- Mobile;
+
+![Mobile](https://i.hizliresim.com/yp3mdef.png)
